@@ -7,9 +7,9 @@ datasets
 bitsandbytes 
 flask
 urllib
-tradingview_ta 
-GoogleNews 
 feedparser
+# tradingview_ta 
+# GoogleNews 
 # yfinance
 # einops 
 # wandb
